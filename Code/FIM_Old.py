@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 21 21:07:21 2019
 
-@author: STELAR
+@author: STELAR ARGUS
 """
 import numpy as np
 import matplotlib.pyplot as plt
